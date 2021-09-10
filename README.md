@@ -27,7 +27,7 @@
 
 ### Экраны приложения:
 
-<img src="https://github.com/Kirillhfz/AvitoList/blob/main/Support%20Images/AvitoListDemo.gif" width="295"/>_ <img src="Support Images/AvitoDemo_01.png" width="300"/> <img src="Support Images/AvitoDemo_02.png" width="300"/>
+<img src="https://github.com/Kirillhfz/AvitoList/blob/main/Support%20Images/AvitoListDemo.gif" width="295"/><img src="Support Images/AvitoDemo_02.png" width="300"/>
 
 ### Выполненные требования:
 
